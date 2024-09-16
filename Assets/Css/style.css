@@ -72,7 +72,7 @@ p{
     border-radius: 4px;
 }
 .banner-back-img{
-    background: url('../images/blackShade.png');
+    background: url('../Images/blackShade.png');
     position: absolute;
     top: 0px;
     width: 100%;
@@ -291,7 +291,7 @@ p{
     padding: 10px;
 }
 .about_back_img{
-    background: url('../images/about_banner.png');
+    background: url('../Images/about_banner.png');
     background-repeat: no-repeat;
 }
 
@@ -420,7 +420,7 @@ p{
 .SLickSlider {
     position: absolute;
     /* background: #ffffffb8; */
-    background: url('../images/headerBlackShade.png');
+    background: url('../Images/headerBlackShade.png');
     bottom: 0px;
     width: 100%;
     padding: 20px;
@@ -578,13 +578,13 @@ position: absolute;
     list-style: none;
 }
 .about_acord{
-    background: url('../images/about_acord.png');
+    background: url('../Images/about_acord.png');
     background-size:cover;
     background-repeat: no-repeat;
     padding: 70px 40px 130px 40px;
 }
 .serviceHead{
-    background: url('../images/serviceHead.png');
+    background: url('../Images/serviceHead.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -1061,7 +1061,7 @@ position: absolute;
     width: 44%; 
   }
   .pioauu{
-    background: url('../images/headerBlackShade.png');
+    background: url('../Images/headerBlackShade.png');
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
@@ -1182,7 +1182,7 @@ position: absolute;
 }
 
 .testimonial_bg{
-  background: url('../images/world-map.png');
+  background: url('../Images/world-map.png');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1213,7 +1213,7 @@ position: absolute;
     position: absolute;
 }
 .back_img_p{
-  background: url('../images/headerFormBanner.png');
+  background: url('../Images/headerFormBanner.png');
   background-size: cover;
   background-repeat: no-repeat;
   margin-top: -59px;
@@ -1223,7 +1223,7 @@ position: absolute;
 }
 
 .blackShade_bg{
-  background: url('../images/blackShade.png');
+  background: url('../Images/blackShade.png');
   background-size: cover;
   background-repeat: no-repeat;
   padding: 20px 30px 68px 30px;
